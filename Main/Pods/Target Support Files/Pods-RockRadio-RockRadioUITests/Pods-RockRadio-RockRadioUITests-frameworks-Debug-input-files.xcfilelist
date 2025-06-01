@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-RockRadio-RockRadioUITests/Pods-RockRadio-RockRadioUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/FRadioPlayer/FRadioPlayer.framework
+${BUILT_PRODUCTS_DIR}/LGSideMenuController/LGSideMenuController.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
